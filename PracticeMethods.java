@@ -214,7 +214,7 @@ class circle{
         return pi * rad1 * rad1;
     }
 }
-    public class practice{
+    public class PracticeMethods{
         public static void main(String[] args){
             circle player = new circle();
             player.pi = (int)3.14;

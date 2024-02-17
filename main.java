@@ -1,4 +1,4 @@
-/* 
+
 class Person {
     int id ;        // here id and name are not variables they are attribute 
     String name;    //in class they are called as attribute.
@@ -16,11 +16,11 @@ System.out.println(husain.name);
 
 }
 }
-*/
 
 
-/* ---------------------- Access Methods With an Object --------------------- */
-/*
+
+---------------------- Access Methods With an Object --------------------- */
+
 public class main{
 
     //fullThrotle() name se maethod bnaya .
@@ -44,7 +44,7 @@ public class main{
         
 
     }
-}  */
+}  
 
 /* ----------------------------------- == ----------------------------------- */
 
